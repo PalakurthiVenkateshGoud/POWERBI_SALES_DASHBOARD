@@ -83,7 +83,6 @@ TASK8_POWERBI_SALES_DASHBOARD/
 │   └── insights.txt
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
