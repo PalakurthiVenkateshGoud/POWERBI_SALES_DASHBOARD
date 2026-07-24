@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive sales dashboard built using Microsoft Power BI. It provides insights into sales performance by month, region, and product category through interactive visualizations.
+This project presents an interactive sales dashboard built using Microsoft Power BI to analyze sales performance across different regions, product categories, and time periods. The dashboard provides clear business insights through interactive visualizations and filters.
 
 ---
 
@@ -11,15 +11,15 @@ This project presents an interactive sales dashboard built using Microsoft Power
 - Analyze monthly sales trends
 - Compare sales performance across regions
 - Identify top-performing product categories
-- Create an interactive dashboard using slicers
-- Present key business insights
+- Build an interactive dashboard with slicers
+- Generate business insights from sales data
 
 ---
 
 ## Tools Used
 
 - Microsoft Power BI Desktop
-- DAX
+- DAX (Data Analysis Expressions)
 - CSV Dataset
 - Git & GitHub
 
@@ -29,7 +29,8 @@ This project presents an interactive sales dashboard built using Microsoft Power
 
 **Online Sales Data.csv**
 
-Columns Used:
+### Columns Used
+
 - Date
 - Product Category
 - Region
@@ -50,7 +51,7 @@ Columns Used:
 - Sales by Region (Bar Chart)
 - Sales by Product Category (Donut Chart)
 
-### Filters
+### Interactive Filters
 - Region
 - Product Category
 
@@ -58,16 +59,16 @@ Columns Used:
 
 ## Key Insights
 
-- North America generated the highest revenue.
-- Electronics contributed the largest share of total sales.
-- Sales peaked in January and gradually declined over subsequent months.
-- Interactive slicers allow quick filtering and business analysis.
+- North America generated the highest total revenue.
+- Electronics was the highest-performing product category.
+- Sales peaked in January and gradually declined over the following months.
+- Interactive slicers allow users to analyze sales dynamically by region and product category.
 
 ---
 
 ## Project Structure
 
-```
+```text
 TASK8_POWERBI_SALES_DASHBOARD/
 │
 ├── data/
@@ -82,7 +83,7 @@ TASK8_POWERBI_SALES_DASHBOARD/
 ├── insights/
 │   └── insights.txt
 │
-├── README.md
+└── README.md
 ```
 
 ---
