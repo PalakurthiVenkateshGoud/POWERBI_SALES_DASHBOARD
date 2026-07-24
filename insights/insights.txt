@@ -1,0 +1,9 @@
+SALES DASHBOARD INSIGHTS
+
+1. North America generated the highest total revenue among all regions.
+
+2. Electronics was the highest-performing product category, contributing the largest share of total sales.
+
+3. Monthly sales were highest in January and gradually declined in the following months.
+
+4. The dashboard includes interactive Region and Product Category slicers, allowing users to analyze sales dynamically.
